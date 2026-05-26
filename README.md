@@ -4,11 +4,13 @@
 
 # <H1> DivideAqui - TCC 2026 </H1>
 <P>🚀 Equipe de desenvolvimento de TCC formada por Elis Brum, Enzo Vimercati, Frederico Abrantes,
-<BR>Marcos Mendes e Tainá Martins, focada na criação de <B>soluções web inovadoras e acessíveis</B></P>
+<BR>Marcos Mendes e Tainá Martins, focada na criação de <B>soluções web inovadoras e acessíveis</B>.</P>
 
-💻 Full Stack Developer  
-🚀 Creator of DivideAqui  
-🎓 Software Development Student
+<P>Qual problema o projeto resolve?</P>
+
+<P>Objetivo do Projeto</P>
+
+<P>Tecnologias Usadas</P>
 
     </td>
 
