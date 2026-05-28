@@ -3,7 +3,7 @@
 de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
 <h2><B>Estatísticas:</B></h2>
-<img src="./Assets/grafico1.jpg" />
+<img src="https://drive.google.com/file/d/1FnTtkjADgaiPPq5VqBwqDn3HfLqmLYrF/view?usp=sharing" />
 
 <h2><B>Tecnologias Usadas:</B></h2>
 <p>
