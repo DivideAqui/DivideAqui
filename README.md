@@ -3,7 +3,7 @@
 de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
 <h2><B>Estatísticas:</B></h2>
-<img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" />
+<img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" />
 <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" />
 <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" />
 <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" />
