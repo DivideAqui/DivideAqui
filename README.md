@@ -1,3 +1,6 @@
+<img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/banner1.png?raw=true"/>
+
+
 # <H1> DivideAqui - TCC 2026 ÷</H1>
 🚀 O projeto <I>DivideAqui</I> nasceu com o objetivo de reduzir o impacto dos altos custos, oferecendo formas mais econômicas
 de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
