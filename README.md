@@ -7,7 +7,7 @@ de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar p
 
 <h2><B>Tecnologias Usadas:</B></h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,figma,github" />
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript,html,css,js,figma,github" />
 </p>
 
 
