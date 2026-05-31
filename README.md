@@ -2,11 +2,11 @@
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/banner1.png?raw=true" >
 </p>
 
-# <H1>DivideAqui - TCC</H1>
+# DivideAqui - TCC
 🚀 O projeto <I>DivideAqui</I> nasceu com o objetivo de reduzir o impacto dos altos custos, oferecendo formas mais econômicas
 de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
-<h2><B>📊 Estatísticas:</B></h2>
+## 📊 Estatísticas
 <P align="center">
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
     <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
@@ -14,7 +14,7 @@ de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar p
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
 </P>
 
-<h2><B>⚙️ Tecnologias Usadas:</B></h2>
+## ⚙️ Tecnologias Usadas
 <P align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,typescript,html,css,js,figma,github" />
 </p>
