@@ -8,10 +8,12 @@ de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar p
 
 <P align="center">
 <h2><B>Estatísticas:</B></h2>
+<P>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
     <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
+</P>
 </P>
 
 <P align="center">
