@@ -8,14 +8,6 @@ de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar p
 
 ---
 
-## 📊 Estatísticas
-<P align="center">
-  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
-    <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
-  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
-  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
-</P>
-
 ## ✨ Sobre o Projeto
 O DivideAqui nasceu como um Trabalho de Conclusão de Curso (TCC) com uma missão clara: **eliminar o desconforto de cobrar conhecidos**.
 Com nossa plataforma, você pode:
@@ -24,6 +16,14 @@ Com nossa plataforma, você pode:
 - ✅ Compartilhar custos de forma segura e organizada
 - ✅ Gerar cobranças automaticamente, sem constrangimento
 - ✅ Manter controle total de suas despesas compartilhadas
+
+## 📊 Estatísticas
+<P align="center">
+  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
+    <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
+  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
+  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
+</P>
 
 ## 🎯 Funcionalidades Principais
 - **Divisão Inteligente de Despesas**: Calcule automaticamente quanto cada pessoa deve pagar
