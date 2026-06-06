@@ -6,6 +6,8 @@
 🚀 O projeto <I>DivideAqui</I> nasceu com o objetivo de reduzir o impacto dos altos custos, oferecendo formas mais econômicas
 de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
+---
+
 ## 📊 Estatísticas
 <P align="center">
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
@@ -13,6 +15,23 @@ de acesso a serviços e entretenimento. No nosso sistema, você pode encontrar p
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
 </P>
+
+## ✨ Sobre o Projeto
+O DivideAqui nasceu como um Trabalho de Conclusão de Curso (TCC) com uma missão clara: **eliminar o desconforto de cobrar conhecidos**.
+Com nossa plataforma, você pode:
+- ✅ Encontrar pessoas para dividir gastos
+- ✅ Convidar amigos para compartilhar despesas
+- ✅ Compartilhar custos de forma segura e organizada
+- ✅ Gerar cobranças automaticamente, sem constrangimento
+- ✅ Manter controle total de suas despesas compartilhadas
+
+## 🎯 Funcionalidades Principais
+- **Divisão Inteligente de Despesas**: Calcule automaticamente quanto cada pessoa deve pagar
+- **Convite de Amigos**: Compartilhe links ou códigos para adicionar participantes
+- **Gestão de Grupos**: Organize despesas por grupos de pessoas
+- **Histórico Completo**: Acompanhe todas as transações
+- **Interface Responsiva**: Funciona perfeitamente em desktop, tablet e celular
+- **Design Moderno**: Interface intuitiva e agradável visualmente
 
 ## ⚙️ Tecnologias Usadas
 <P align="center">
