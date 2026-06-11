@@ -22,7 +22,7 @@ Com nossa plataforma, você pode:
   <img src="https://github.com/DivideAqui/DivideAqui/blob/main/grafico1.png?raw=true" width="49%"/>
     <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
-  <img src="" width="49%"/>
+  <img src="https://github.com/DivideAqui/DivideAqui/blob/main/grafico2.png?raw=true" width="49%"/>
 </P>
 
 ## 🎯 Funcionalidades Principais
