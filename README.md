@@ -19,10 +19,10 @@ Com nossa plataforma, você pode:
 
 ## 📊 Estatísticas
 <P align="center">
-  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_45_56.png?raw=true" width="49%"/>
+  <img src="https://github.com/DivideAqui/DivideAqui/blob/main/grafico1.png?raw=true" width="49%"/>
     <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico4.png?raw=true" width="49%"/>
   <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/grafico3.png?raw=true" width="49%"/>
-  <img src="https://github.com/DivideAqui/DivideAqui-TCC/blob/main/ChatGPT%20Image%2027%20de%20mai.%20de%202026,%2022_46_06.png?raw=true" width="49%"/>
+  <img src="" width="49%"/>
 </P>
 
 ## 🎯 Funcionalidades Principais
